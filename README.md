@@ -37,7 +37,7 @@ Meu objetivo com esse projeto foi praticar e consolidar conceitos importantes co
 
 2. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/mini-rpg-python.git
+git clone https://github.com/robert-br-br-bot/mini-rpg-python.git
 
 cd mini-rpg-python
 
